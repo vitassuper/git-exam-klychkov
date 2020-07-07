@@ -8,3 +8,7 @@ All notable changes to this project will be documented in this file.
 ### Changed
 
 - Write to index.php phpinfo function
+
+## [1.1.0] - 2020-07-07
+### Added
+- New file test.php by @vitassuper.
